@@ -273,8 +273,9 @@ nav {
   padding: 0;
 }
 
-.picture .container .decs p {
-  padding-top: 40px;
+.picture .container .desc p {
+  padding-top: 8px;
+  margin-top: 0;
 }
 
 .picture .container .pic .home {
